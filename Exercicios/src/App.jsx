@@ -11,6 +11,7 @@ function App() {
     <>
      <Pnn />
      <Positivo />
+     <Salario />
     </>
   )
 }

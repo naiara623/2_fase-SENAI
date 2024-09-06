@@ -1,7 +1,7 @@
-import React from 'react'
+import {useState} from 'react'
 
 function Salario() {
-    const [resultado, setResultado] = userState()
+    const [resultado, setResultado] = useState()
 
     function verificar(){
 
