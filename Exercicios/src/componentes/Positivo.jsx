@@ -16,7 +16,7 @@ function Positivo() {
        
     }
   return (
-    <div className='Media-container'>
+    <div className='Positivo'>
         <h2>Um numero é Par e Positivo ao mesmo tempo?</h2>
         <button onClick={sla}>Verificar</button>
         <div>

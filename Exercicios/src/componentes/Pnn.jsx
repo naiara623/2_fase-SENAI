@@ -20,7 +20,7 @@ function Pnn() {
     
     }
   return (
-    <div className='Media-container'>
+    <div className='Pnn'>
       <h2>Numero positivo, negativo, ou nulo?</h2>
       <button onClick={analise}>Analisar</button>
       <div>

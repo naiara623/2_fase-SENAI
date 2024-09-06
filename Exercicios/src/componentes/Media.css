@@ -1,7 +1,72 @@
-.Media-container{
+.Produto{
     border: 1px black solid;
     padding: 20px;
     border-radius: 10px ;
     margin: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: inline-block;
 }
+.UberStar{
+    border: 1px black solid;
+    padding: 20px;
+    border-radius: 10px ;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
+.Positivo{
+    border: 1px black solid;
+    padding: 20px;
+    border-radius: 10px ;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
+.Salario{
+    border: 1px black solid;
+    padding: 20px;
+    border-radius: 10px ;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
+.Valor_X{
+    border: 1px black solid;
+    padding: 20px;
+    border-radius: 10px ;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
+.Pnn{
+    border: 1px black solid;
+    padding: 20px;
+    border-radius: 10px ;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
+.Notas_Parcial{
+    border: 1px black solid;
+    padding: 20px;
+    border-radius: 10px ;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
+.Valor{
+    border: 1px black solid;
+    padding: 20px;
+    border-radius: 10px ;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
+    .Notas{
+        border: 1px black solid;
+        padding: 20px;
+        border-radius: 10px ;
+        margin: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        display: inline-block;
+    }

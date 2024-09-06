@@ -20,7 +20,7 @@ function Salario() {
         }
     }
   return (
-    <div className='Media-container'>
+    <div className='Salario'>
       <h2>Informe o salario e o valor do impréstimo</h2>
       <button onClick={verificar}>Verificação</button>
       Emprestimo: {resultado}
