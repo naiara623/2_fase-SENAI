@@ -1,0 +1,8 @@
+.oi{
+    border: 1px black solid;
+    padding: 20px;
+    border-radius: 10px ;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
