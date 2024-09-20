@@ -14,6 +14,7 @@ function Pesquisas() {
     const [altura, setAltura] = useState
 
     function calcular(){
+      
 
     }
 

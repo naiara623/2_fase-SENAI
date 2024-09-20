@@ -7,19 +7,21 @@ import Salario from './componentes/Salario'
 import UberStar from './componentes/UberStar'
 import Notas_Parciais from './componentes/Notas_Parciais'
 import Valor_X from './componentes/Valor_X'
+import Dia_semana from './componentes/Dia_semana'
 
 
 function App() {
 
   return (
     <>
-     <Pnn />
+     {/* <Pnn />
      <Positivo />
      <Salario />
      <UberStar />
      <Produto />
      <Notas_Parciais />
-     <Valor_X />
+     <Valor_X /> */}
+     <Dia_semana />
     </>
   )
 }
